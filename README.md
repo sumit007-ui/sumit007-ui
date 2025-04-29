@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hey+There!+I'm+Sumit+Kumar%0A🚀+Full-Stack+Developer%0A💡+Innovative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=500&lines=👋+Hey+There!+I'm+Sumit+Kumar;🚀+Full-Stack+Developer;💡+Innovative+Problem+Solver&color=00FF00&size=24&center=true&duration=3000&pause=1000" />
 
   <!-- Social Links -->
   <div align="center" style="margin: 20px 0">
