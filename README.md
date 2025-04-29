@@ -30,13 +30,11 @@ Here are some of the tools and technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=radical)
 
----
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumit007-ui&theme=radical)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 📂 Explore My Work
-- Check out my repositories: [GitHub Repositories](https://github.com/sumit007-ui?tab=repositories)
-- Featured projects:
-  - **[Project Name](https://github.com/your-username/project-name)**: Brief description.
-  - **[Another Project](https://github.com/your-username/another-project)**: Brief description.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumit007-ui&theme=radical)
+
+
 
 ---
 
