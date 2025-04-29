@@ -26,7 +26,7 @@
   <p style="color: #ffffff; text-align: justify">
     
 - 🔭 Currently building modern, user-focused web apps<br>  
-- 🌱 Diving deep into JavaScript frameworks and backend tech<br>  
+- 🌱 Diving deep into Python frameworks and backend tech<br>  
 - 👯 Always open to collaborating on meaningful open-source projects<br>  
 - 💡 Obsessed with writing clean, efficient, and scalable code<br>  
 - 🎓 A proud self-learner from India, growing one commit at a time 🚀
