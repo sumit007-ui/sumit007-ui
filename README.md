@@ -39,8 +39,12 @@ Here are some of the tools and technologies I work with:
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]((https://www.linkedin.com/in/sumit-kumar-a0899b250/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- [Email]((sk78146083@gmail.com))
-- [Phone]((+91-8360671237))
 
-Thanks for stopping by! 🚀
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/sumit-kumar-a0899b250/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sk78146083@gmail.com)
+[![Phone](https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918360671237)
+
+---
+
+**Thanks for stopping by! 🚀**
+
