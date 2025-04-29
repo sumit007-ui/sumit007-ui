@@ -67,8 +67,8 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=repo-name-1&theme=radical)](https://github.com/sumit007-ui/repo-name-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=repo-name-2&theme=radical)](https://github.com/sumit007-ui/repo-name-2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=[repo-name-1](https://github.com/sumit007-ui/Restaurant-Intelligence.git)&theme=radical)](https://github.com/sumit007-ui/repo-name-1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=[repo-name-2](https://github.com/sumit007-ui/fruit-recoginition.git)&theme=radical)](https://github.com/sumit007-ui/repo-name-2)
 
 </div>
 
