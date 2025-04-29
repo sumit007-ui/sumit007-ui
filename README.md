@@ -1,14 +1,11 @@
 <div align="center">
   <!-- Animated Header -->
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hey+There!+I'm+Sumit+Kumar;🚀+Full-Stack+Developer;💡+Innovative+Problem+Solver;" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hey+There!+I'm+Sumit+Kumar%0A🚀+Full-Stack+Developer%0A💡+Innovative+Problem+Solver" alt="Typing SVG" />
 
-  
-  <!-- Animated Social Links -->
+  <!-- Social Links -->
   <div align="center" style="margin: 20px 0">
     <a href="https://www.linkedin.com/in/sumit-kumar-a0899b250" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" />
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:sk78146083@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,11 +13,8 @@
     <a href="https://wa.me/918360671237">
       <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-    <a href="https://github.com/sumit007-ui">
-      <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
   </div>
-  
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=sumit007-ui&label=Profile+Views&color=blueviolet&style=flat" alt="profile views" />
 </div>
