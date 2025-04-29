@@ -1,6 +1,9 @@
 <div align="center">
   <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👋+Hey+There!+I'm+Sumit+Kumar;🚀+Full-Stack+Developer;💡+Innovative+Problem+Solver;🌱+Open+Source+Contributor" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=👋+Hey+There!+I'm+Sumit+Kumar;🚀+Full-Stack+Developer;💡+Innovative+Problem+Solver;" alt="Typing SVG" />
+</p>
+
   
   <!-- Animated Social Links -->
   <div align="center" style="margin: 20px 0">
@@ -27,11 +30,12 @@
 ## 🎨 About Me
 <div style="background: linear-gradient(to right, #1a1a1a, #2d2d2d); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1)">
   <p style="color: #ffffff; text-align: justify">
-    🔭 Currently working on cutting-edge web solutions<br>
-    🌱 Mastering advanced JavaScript frameworks<br>
-    👯 Looking to collaborate on open-source projects<br>
-    💡 Passionate about clean architecture and efficient code<br>
-    🎓 Self-taught developer from India
+    
+- 🔭 Currently building modern, user-focused web apps<br>  
+- 🌱 Diving deep into JavaScript frameworks and backend tech<br>  
+- 👯 Always open to collaborating on meaningful open-source projects<br>  
+- 💡 Obsessed with writing clean, efficient, and scalable code<br>  
+- 🎓 A proud self-learner from India, growing one commit at a time 🚀
   </p>
 </div>
 
@@ -41,12 +45,12 @@
 
 ### 🧠 Core Technologies
 <div align="center" style="margin: 20px 0">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask" />
 </div>
 
 ### 🛠️ Tools & Platforms
 <div align="center" style="margin: 20px 0">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
 </div>
 
 ---
@@ -70,9 +74,14 @@
 ## 🏆 Projects Showcase
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0">
+## 📌 Featured Projects
 
-[![ZenithNenux Website](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=ZenithNenux.Website-main&theme=radical)](https://github.com/sumit007-ui/ZenithNenux.Website-main)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=Portfolio&theme=radical)](https://github.com/sumit007-ui/Portfolio)
+[![ZenithNenux Website](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=ZenithNenux.Website-main&theme=radical)](https://github.com/sumit007-ui/ZenithNenux.Website-main)  
+🌀 **ZenithNenux Website** – A sleek, modern web platform designed for showcasing dynamic content and business identity with responsiveness and clean UI.
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sumit007-ui&repo=Portfolio&theme=radical)](https://github.com/sumit007-ui/Portfolio)  
+🧑‍💻 **Personal Portfolio** – My developer portfolio built with HTML, CSS, and JavaScript to display my work, skills, and projects in a stylish, minimal layout.
+
 
 </div>
 
