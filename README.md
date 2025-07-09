@@ -1,43 +1,82 @@
 <div align="center">
-  
-<!-- Modern Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Sumit+Kumar;Python+Developer+%7C+Backend+Specialist;Building+Scalable+Solutions" alt="Professional Header" />
 
-<!-- Clean Contact Links -->
-<div align="center" style="margin: 25px 0">
+<!-- Professional Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=600&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+|+Rising+Innovator;Building+Scalable+Tech+Solutions&color=007ACC&size=24&center=true&duration=3000&pause=1000" />
+
+<!-- Professional Contact Links -->
+<div align="center" style="margin: 20px 0">
   <a href="https://www.linkedin.com/in/sumit-kumar-a0899b250" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sk78146083@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sk78146083@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=sumit007-ui&label=Profile+Views&color=007ACC&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💼 About Me
 
-**Python Developer** specializing in backend architecture with expanding expertise in full-stack development. Focused on building performant systems through clean code practices and scalable design patterns.
+```markdown
+I'm Sumit Kumar — a Python Developer and Rising Innovator passionate about building scalable, user-focused web applications. Currently expanding my skills into the MERN stack and backend engineering with a strong focus on clean architecture, automation, and real-world impact.
+```
 
-🧰 Technical Expertise
-Core Competencies
+- 🔧 Experienced in Python, Flask, SQL, and version control
+- 🌐 Exploring full-stack development with React and Node.js
+- 💼 Driven by solving real business problems with code
+- 🤝 Open to collaborations and freelance work in scalable backend & API systems
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> </div>
-Expanding Skillset
-<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> </div>
-📊 Development Activity
-<div align="center">
-Contribution Analytics	Language Proficiency
-<img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="100%" />	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=default&hide_border=true&langs_count=6" width="100%" />
-https://github-readme-streak-stats.herokuapp.com?user=sumit007-ui&theme=default&hide_border=true
-
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,nodejs,react" />
 </div>
-🚀 Current Focus
-graph TD
-    A[Python Backend] --> B[API Optimization]
-    C[MERN Stack] --> D[Full-stack Integration]
-    E[System Design] --> F[Cloud Architecture]
 
-<div align="center"> <h3>Open to backend development opportunities and MERN stack collaborations</h3> <a href="mailto:sk78146083@gmail.com"> <img src="https://img.shields.io/badge/Contact-Professional_Inquiry-007ACC?style=for-the-badge" /> </a> </div> 
+### Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postgres" />
+</div>
+
+---
+
+## 📈 GitHub Insights
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit007-ui&theme=default&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Highlights & Achievements
+- Awarded **"Rising Innovator"** for impactful project execution
+- Top performer in multiple university-level coding competitions
+- Contributor to open-source backend and automation tools
+
+---
+
+## 🔍 Current Focus
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Mastering+Full-Stack+Development;Designing+Robust+Backend+Systems;Deploying+Cloud-Based+Apps" alt="Next Steps" />
+</div>
+
+---
+
+## 🧠 Cookies Disclosure (Professional Tone)
+```markdown
+This GitHub profile uses GitHub’s native visitor tracking. No additional cookies or tracking scripts are implemented by the user. All insights and analytics are powered by GitHub-provided tools.
+```
+
+---
+
+<div align="center">
+  <h3>Let's Build the Future — One Line of Code at a Time</h3>
+</div>
