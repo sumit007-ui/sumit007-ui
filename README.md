@@ -35,7 +35,7 @@
 ## 👨‍💼 About Me
 
 <div align="justify">
-I'm Sumit Kumar — a Python Developer and Rising Innovator passionate about building scalable, user-focused web applications. Currently expanding my skills into the MERN stack and backend engineering with a strong focus on clean architecture, automation, and real-world impact.
+I'm Sumit Kumar — A Python Developer and Rising Innovator passionate about building scalable, user-focused web applications. Currently expanding my skills into the MERN stack and backend engineering with a strong focus on clean architecture, automation, and real-world impact.
 </div>
 
 - 🔧 Experienced in Python, Flask, SQL, and version control
