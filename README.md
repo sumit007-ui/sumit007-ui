@@ -3,13 +3,16 @@
 <!-- Professional Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=600&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+|+Rising+Innovator;Building+Scalable+Tech+Solutions&color=007ACC&size=24&center=true&duration=3000&pause=1000" />
 
-<!-- Professional Contact Links -->
+<!-- Contact Buttons -->
 <div align="center" style="margin: 20px 0">
   <a href="https://www.linkedin.com/in/sumit-kumar-a0899b250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sk78146083@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sk78146083@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/918360671237">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
 
@@ -63,14 +66,14 @@ I'm Sumit Kumar — a Python Developer and Rising Innovator passionate about bui
 
 ---
 
-## 🔍 Current Focus
+## 🎯 What's Next
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Mastering+Full-Stack+Development;Designing+Robust+Backend+Systems;Deploying+Cloud-Based+Apps" alt="Next Steps" />
 </div>
 
 ---
 
-## 🧠 Cookies Disclosure (Professional Tone)
+## 📄 Cookies Disclosure
 ```markdown
 This GitHub profile uses GitHub’s native visitor tracking. No additional cookies or tracking scripts are implemented by the user. All insights and analytics are powered by GitHub-provided tools.
 ```
@@ -78,5 +81,5 @@ This GitHub profile uses GitHub’s native visitor tracking. No additional cooki
 ---
 
 <div align="center">
-  <h3>Let's Build the Future — One Line of Code at a Time</h3>
+  <h3>Building Reliable Software for Real-World Impact</h3>
 </div>
