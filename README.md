@@ -49,7 +49,7 @@ I'm Sumit Kumar — a Python Developer and Rising Innovator passionate about bui
 
 ### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,bootstrap" />
 </div>
 
 ### Tools & Platforms
