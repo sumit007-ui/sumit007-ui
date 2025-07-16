@@ -1,94 +1,99 @@
 <div align="center">
+  
+<!-- Dynamic Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=800&color=007ACC&center=true&vCenter=true&width=800&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+•+Backend+Specialist;Crafting+Scalable+Tech+Solutions;MERN+Stack+Learner+•+Tech+Innovator" alt="Typing SVG" />
+</a>
 
-<!-- Professional Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?vCenter=true&width=600&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+|+Rising+Innovator;Building+Scalable+Tech+Solutions&color=007ACC&size=24&center=true&duration=3000&pause=1000" />
-
-<!-- Contact Buttons -->
-<table style="margin-top: 20px;">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/sumit-kumar-a0899b250" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:sk78146083@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://wa.me/918360671237">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Contact Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-kumar-a0899b250" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sk78146083@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/918360671237">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/sumit007-ui">
+    <img src="https://img.shields.io/badge/-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!-- Profile Views -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=sumit007-ui&label=Profile+Views&color=007ACC&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=sumit007-ui&label=Profile+Views&color=007ACC&style=flat-square" alt="profile views" />
 
 </div>
 
 ---
 
-## 👨‍💼 About Me
+## 👨‍💻 About Me
 
 <div align="justify">
-I'm Sumit Kumar — A Python Developer and Rising Innovator passionate about building scalable, user-focused web applications. Currently expanding my skills into the MERN stack and backend engineering with a strong focus on clean architecture, automation, and real-world impact.
+Passionate Python developer specializing in backend solutions with Flask. Currently expanding expertise into full-stack development through MERN stack. Focused on building scalable, efficient systems with clean architecture principles. Committed to solving real-world problems through innovative tech solutions.
 </div>
 
-- 🔧 Experienced in Python, Flask, SQL, and version control
-- 🌐 Exploring full-stack development with React and Node.js
-- 💼 Driven by solving real business problems with code
-- 🤝 Open to collaborations and freelance work in scalable backend & API systems
+- 🔭 **Current Focus**: Building RESTful APIs & microservices
+- 🌱 **Learning**: React.js, Node.js, MongoDB
+- 💡 **Passionate About**: Automation, System Architecture, Performance Optimization
+- 👯 **Seeking**: Backend development roles and innovative projects
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Core Competencies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,git,html,css,bootstrap,spline,github,linux" />
 </div>
 
-### Tools & Platforms
+### Expanding Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,aws" />
 </div>
 
----
-
-## 📈 GitHub Insights
+### Development Tools
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumit007-ui&theme=default&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,postman,figma" />
 </div>
 
 ---
 
-## 🏆 Highlights & Achievements
-- Awarded **"Rising Innovator"** for impactful project execution
-- Top performer in multiple university-level coding competitions
-- Contributor to open-source backend and automation tools
-
----
-
-## 🎯 What's Next
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Mastering+Full-Stack+Development;Designing+Robust+Backend+Systems;Deploying+Cloud-Based+Apps" alt="Next Steps" />
-</div>
-
----
-
-## 📄 Cookies Disclosure
-<div align="justify">
-This GitHub profile uses GitHub’s native visitor tracking. No additional cookies or tracking scripts are implemented by the user. All insights and analytics are powered by GitHub-provided tools.
-</div>
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
-  <h3>Building Reliable Software for Real-World Impact</h3>
+  
+| <a href="https://github.com/sumit007-ui"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="Sumit's stats" /></a> | <a href="https://github.com/sumit007-ui"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=algolia&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements
+- **Rising Innovator Award** for impactful project execution
+- 🌐 Built full-stack websites using HTML, CSS, JavaScript, Flask.
+- 🌟 Event Coordinator at GNDU Students’ Community – managed large-scale student events and tech activities.
+- 🌍 Active on LinkedIn with a strong personal brand and tech-focused vision.
+
+
+## 📈 Development Focus
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Advanced+Backend+Architecture;Cloud+Deployment+(AWS/Azure);Full-Stack+Proficiency;System+Design+Principles;Performance+Optimization" alt="Development Focus" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Building Tomorrow's Solutions Today</h3>
+  <p>Open for collaborations and new opportunities!</p>
 </div>
