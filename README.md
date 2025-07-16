@@ -45,7 +45,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Core Competencies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,git,html,css,bootstrap,spline,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,git,html,css,bootstrap,github,linux" />
 </div>
 
 ### Expanding Skills
@@ -55,7 +55,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,canva,figma" />
 </div>
 
 ---
@@ -70,19 +70,17 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <!-- Fixed GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🏆 Achievements
 - **Rising Innovator Award** for impactful project execution
-- 🌐 Built full-stack websites using HTML, CSS, JavaScript, Flask.
-- 🌟 Event Coordinator at GNDU Students’ Community – managed large-scale student events and tech activities.
-- 🌍 Active on LinkedIn with a strong personal brand and tech-focused vision.
-
+- 🌐 Built full-stack websites using HTML, CSS, JavaScript, Flask
+- 🌟 Event Coordinator at GNDU Students' Community - managed large-scale student events and tech activities
+- 🌍 Active on LinkedIn with a strong personal brand and tech-focused vision
 
 ## 📈 Development Focus
 <div align="center">
