@@ -68,11 +68,6 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 </div>
 
-
-  <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true" alt="GitHub Streak" />
-
-
-
 ---
 
 ## 🏆 Achievements
