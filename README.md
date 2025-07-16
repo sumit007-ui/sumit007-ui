@@ -68,11 +68,10 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 </div>
 
-<div align="center">
-  <!-- Fixed GitHub Streak Stats -->
+
   <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true" alt="GitHub Streak" />
 
-</div>
+
 
 ---
 
