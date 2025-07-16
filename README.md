@@ -55,7 +55,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma" />
 </div>
 
 ---
@@ -71,7 +71,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 <div align="center">
   <!-- Fixed GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit007-ui&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
