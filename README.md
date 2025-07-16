@@ -1,9 +1,8 @@
 <div align="center">
   
 <!-- Dynamic Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=800&color=007ACC&center=true&vCenter=true&width=800&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+•+Backend+Specialist;Crafting+Scalable+Tech+Solutions;MERN+Stack+Learner+•+Tech+Innovator" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=800&color=007ACC&center=true&vCenter=true&width=800&lines=Hello,+I'm+Sumit+Kumar;Python+Developer+•+Backend+Specialist;Crafting+Scalable+Tech+Solutions;MERN+Stack+Learner+•+Tech+Innovator" alt="Typing SVG" />
+
 
 <!-- Contact Badges -->
 <p align="center">
@@ -71,7 +70,8 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 <div align="center">
   <!-- Fixed GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit007-ui&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sumit007-ui&theme=algolia&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
