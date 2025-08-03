@@ -44,31 +44,18 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Core Competencies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,postgres,git,html,css,bootstrap,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,git,html,css,bootstrap,github,linux" />
 </div>
 
 ### Expanding Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,aws" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,aws" />
 </div>
 
 ### Development Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma" />
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-| <a href="https://github.com/sumit007-ui"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="Sumit's stats" /></a> | <a href="https://github.com/sumit007-ui"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=algolia&hide_border=true&langs_count=8" /></a> |
-| ------------- | ------------- |
-
-</div>
-
----
 
 ## 🏆 Achievements
 - **Rising Innovator Award** for impactful project execution
