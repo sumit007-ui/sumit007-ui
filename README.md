@@ -44,17 +44,17 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Core Competencies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,git,html,css,nodejs,mongodb,express,bootstrap,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,sqlite,mongodb,git,html,css,nodejs,npm,express,bootstrap,github,linux" />
 </div>
 
 ### Expanding Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,rust,java" />
+  <img src="https://skillicons.dev/icons?i=react,aws,rust,java,ts,bun" />
 </div>
 
 ### Development Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma,vercel" />
 </div>
 
 ## 🏆 Achievements
