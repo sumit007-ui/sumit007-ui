@@ -30,11 +30,11 @@
 ## 👨‍💻 About Me
 
 <div align="justify">
-Passionate Python developer specializing in backend solutions with Flask. Currently expanding expertise into full-stack development through MERN stack. Focused on building scalable, efficient systems with clean architecture principles. Committed to solving real-world problems through innovative tech solutions.
+Polyglot Backend Engineer (Python/Flask, Node.js) building robust solutions while expanding into high-performance Rust and advanced System Design. Focused on building scalable, efficient systems with clean architecture principles. Committed to solving real-world problems through innovative tech solutions.
 </div>
 
 - 🔭 **Current Focus**: Building RESTful APIs & microservices
-- 🌱 **Learning**: React.js, Node.js, MongoDB
+- 🌱 **Learning**: React.js, Rust, Next.js, GenAI
 - 💡 **Passionate About**: Automation, System Architecture, Performance Optimization
 - 👯 **Seeking**: Backend development roles and innovative projects
 
@@ -49,7 +49,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Expanding Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,rust,java,ts,bun" />
+  <img src="https://skillicons.dev/icons?i=react,aws,rust,java,ts,bun,supabase" />
 </div>
 
 ### Development Tools
@@ -59,7 +59,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ## 🏆 Achievements
 - **Rising Innovator Award** for impactful project execution
-- 🌐 Built full-stack websites using HTML, CSS, JavaScript, Flask
+- 🌐 Built full-stack websites using HTML, CSS, JavaScript, Flask, Nodejs, SQL, MongoDb
 - 🌟 Event Coordinator at GNDU Students' Community - managed large-scale student events and tech activities
 - 🌍 Active on LinkedIn with a strong personal brand and tech-focused vision
 
