@@ -49,7 +49,7 @@ Passionate Python developer specializing in backend solutions with Flask. Curren
 
 ### Expanding Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,rust,n8n,openai" />
+  <img src="https://skillicons.dev/icons?i=react,aws,rust,java" />
 </div>
 
 ### Development Tools
