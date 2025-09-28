@@ -44,8 +44,9 @@ Polyglot Backend Engineer (Python/Flask, Node.js) building robust solutions whil
 
 ### Core Competencies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,sqlite,mongodb,git,html,css,nodejs,npm,express,bootstrap,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,sqlite,mongodb,git,html,css,nodejs,npm,express,bootstrap,github,linux,firebase,flutter" />
 </div>
+
 
 ### Expanding Skills
 <div align="center">
