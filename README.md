@@ -40,24 +40,27 @@ Polyglot Backend Engineer (Python/Flask, Node.js) building robust solutions whil
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack Overview  
 
-### Core Competencies
+### 💡 Core Competencies  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,flask,postgres,sqlite,mongodb,git,html,css,nodejs,npm,express,bootstrap,github,linux,firebase,flutter,androidstudio,swift,kotlin,dart" />
-</div>
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,kotlin,swift,js,ts,nodejs,express,flask,postgres,sqlite,mongodb,firebase,git,github,html,css,bootstrap,linux,androidstudio" />
+</div>  
 
+---
 
-
-### Expanding Skills
+### 🚀 Expanding Skills  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,aws,rust,java,ts,bun,supabase" />
-</div>
+  <img src="https://skillicons.dev/icons?i=react,aws,java,rust,bun,supabase" />
+</div>  
 
-### Development Tools
+---
+
+### 🛠 Development Tools  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma,vercel" />
-</div>
+  <img src="https://skillicons.dev/icons?i=vscode,docker,bash,figma,vercel" />
+</div>  
+
 
 ## 🏆 Achievements
 - **Rising Innovator Award** for impactful project execution
