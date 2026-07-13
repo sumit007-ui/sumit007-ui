@@ -47,7 +47,7 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/sumit007-ui/marketky/main/assets/images/runnseegaa_logo.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="RunnSeegaa Logo" />
+      <img src="https://raw.githubusercontent.com/sumit007-ui/marketky/main/assets/images/runnseega_logo.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="RunnSeegaa Logo" />
     </td>
     <td width="75%" valign="top">
       <h3>👟 RunnSeegaa E-Commerce App</h3>
@@ -124,18 +124,10 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 
 <br/>
 
-### 📊 Repository Statistics
 <div align="center">
-  <table border="0" cellpadding="5" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="Sumit's GitHub Stats" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Sumit's Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Sumit's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sumit's Top Languages" />
 </div>
 
 ---
