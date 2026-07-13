@@ -146,6 +146,7 @@ gantt
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" valign="middle" /> Milestones & Achievements
 
+*   🏆 **National Hackathon 2nd Runner-Up**: Achieved 2nd Runner-Up position at **HackSpark 2025** for building high-performance, innovative backend solutions.
 *   🥇 **Rising Innovator Award**: Commended for outstanding technical delivery, execution speed, and architectural clean-up.
 *   📦 **App Deployments & CI/CD**: Built and deployed production apps with automated release pipelines handling provisioning, building, and signing.
 *   👥 **Community Leadership**: Appointed Event Coordinator at GNDU Students' Community, organizing and directing large-scale technical and social initiatives.
