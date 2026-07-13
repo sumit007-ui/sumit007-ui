@@ -26,7 +26,7 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="35" valign="middle" /> Professional Profile
 
 <div align="justify">
 I am a dedicated <b>Backend Software Engineer</b> focused on designing high-throughput API architectures, concurrent services, and scalable cloud-native infrastructure. Leveraging a strong foundation in <b>Python</b> and <b>Node.js</b>, I am actively specializing in <b>Golang (Go)</b> development and <b>Advanced System Design</b> (distributed caching, message-brokers, rate-limiting). I apply clean architecture principles, robust data normalization patterns, and secure design patterns to engineer production-ready software solutions.
@@ -41,24 +41,34 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 
 ---
 
-## 📊 GitHub Contribution Dashboard
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="35" valign="middle" /> Featured Projects
 
 <div align="center">
-  <table border="0" cellpadding="5" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="Sumit's GitHub Stats" />
-      </td>
-      <td align="center" valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Sumit's Top Languages" />
-      </td>
-    </tr>
-  </table>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/sumit007-ui/marketky/main/assets/images/runnseegaa_logo.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="RunnSeegaa Logo" />
+    </td>
+    <td width="75%" valign="top">
+      <h3>👟 RunnSeegaa E-Commerce App</h3>
+      <p align="justify">A high-performance Flutter iOS application designed for the RunnSeegaa shoe brand. Powered by <b>Supabase</b> (RLS, PostgreSQL) and structured using clean BLoC architecture for seamless, fast shopping flows.</p>
+      <div align="left">
+        <a href="https://apps.apple.com/in/app/runnseegaa-online-shoe-app/id6762041512" target="_blank">
+          <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="35" />
+        </a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/sumit007-ui/marketky" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## ⚡ Technical Capabilities
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="35" valign="middle" /> Technical Capabilities
 
 <table width="100%">
   <thead>
@@ -105,7 +115,32 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 
 ---
 
-## 🗺️ Learning & Professional Development Roadmap
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" valign="middle" /> GitHub Analytics
+
+### 📈 Contribution & Activity History
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit007-ui&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### 📊 Repository Statistics
+<div align="center">
+  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="Sumit's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Sumit's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Compass.png" width="35" valign="middle" /> Roadmap & Learning Journey
 
 Below is the structured roadmap I am currently undertaking to master distributed systems scaling and production-grade backend operations:
 
@@ -125,7 +160,7 @@ gantt
 
 ---
 
-## 🏆 Selected Milestones & Highlights
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35" valign="middle" /> Milestones & Achievements
 
 *   🥇 **Rising Innovator Award**: Commended for outstanding technical delivery, execution speed, and architectural clean-up.
 *   📦 **App Deployments & CI/CD**: Built and deployed production apps with automated release pipelines handling provisioning, building, and signing.
