@@ -47,11 +47,11 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/sumit007-ui/marketky/main/assets/images/runnseega_logo.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="RunnSeegaa Logo" />
+      <img src="./runnseega_logo.png" width="120" style="border-radius: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" alt="RunnSeegaa Logo" />
     </td>
     <td width="75%" valign="top">
       <h3>👟 RunnSeegaa E-Commerce App</h3>
-      <p align="justify">A high-performance Flutter iOS application designed for the RunnSeegaa shoe brand. Powered by <b>Supabase</b> (RLS, PostgreSQL) and structured using clean BLoC architecture for seamless, fast shopping flows.</p>
+      <p align="justify">A production-grade, offline-first Flutter e-commerce platform built using the <b>Repository Pattern</b> and reactive <b>BLoC state management</b>. Engineered with a secure <b>Supabase (PostgreSQL)</b> database implementing Row-Level Security (RLS) and ACID-compliant order processing. Configured with automated CI/CD pipelines for secure iOS code-signing and App Store Connect delivery.</p>
       <div align="left">
         <a href="https://apps.apple.com/in/app/runnseegaa-online-shoe-app/id6762041512" target="_blank">
           <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="35" />
@@ -120,14 +120,6 @@ I am a dedicated <b>Backend Software Engineer</b> focused on designing high-thro
 ### 📈 Contribution & Activity History
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit007-ui&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit007-ui&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Sumit's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit007-ui&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sumit's Top Languages" />
 </div>
 
 ---
