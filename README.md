@@ -60,7 +60,6 @@ A hackathon-built disaster-response prototype with SOS reporting, shelter discov
 
 **Recognition:** 2nd Runner-Up, HackSpark 2025.
 
-[Repository](https://github.com/sumit007-ui/Sahaaya)
 
 ## Technical toolbox
 
